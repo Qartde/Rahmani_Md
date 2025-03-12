@@ -4,7 +4,7 @@ const { adams } = require("../Rahmani/Md");
 const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../lib/sudo")
 const conf = require("../config");
 
-adams({ nomCom: "owner", categorie: "General", reaction: "🚘" }, async (dest, zk, commandeOptions) => {
+adams({ nomCom: "owner", categorie: "General", reaction: "💀" }, async (dest, zk, commandeOptions) => {
     const { ms , mybotpic } = commandeOptions;
     
   const thsudo = await isSudoTableNotEmpty()
