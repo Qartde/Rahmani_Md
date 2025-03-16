@@ -2,7 +2,7 @@
   "name":"𝐊𝐈𝐍𝐆 𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃",
   "description":"Best whatsapp bot developed by 𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃 ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/aktbgo.jpg",
+  "logo":"https://files.catbox.moe/i4mkin.jpg",
   "repository":"https://github.com/Qartde/Rahmani_Md",
   "succes_url":"/",
   "stack":"container",
@@ -16,7 +16,7 @@
     "ANTILINK_GROUP":
     {
       "description":"Enter yes for your bot to auto delete links and remove link senders",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
     "AUTO_READ_STATUS":
@@ -99,13 +99,13 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "2"
   },
   "STARTING_BOT_MESSAGE":
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
-    "value": "yes"
+    "value": "no"
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
@@ -114,7 +114,7 @@
  },
   "ANTIDELETE_MESSAGES" : {
     "description": "Deleted messages will be sent to your inbox, enter yes to enable else put no",
-    "value": "yes",
+    "value": "no",
         "required": false
   }
   },
@@ -142,4 +142,6 @@
       "plan": "heroku-postgresql:essential-0"
     }
   ]
+}
+
 }
