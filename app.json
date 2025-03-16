@@ -1,5 +1,5 @@
 {
-  "name":"RAHMANI_MD CREAET BY RAHMANI",
+  "name":"RAHMANI_MD CREATED BY RAHMANI",
   "description":"Best WhatsApp Bot Developed By RAHMANI Contact Me +255693629079 Thank you for choose RAHMANI_MD",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/aktbgo.jpg",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":",",
+      "value":".",
       "required":true
     },
     "AUTO_READ_STATUS":
