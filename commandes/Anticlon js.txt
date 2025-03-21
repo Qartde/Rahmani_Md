@@ -10,7 +10,7 @@ zokou({ nomCom: "hack1", categorie: "General", reaction:"👨‍🏫", active: i
   // hack
     const { repondre, arg, ms } = commandeOptions;
 
-    await zk.sendMessage(dest, "```yesser-md Injecting malware```");
+    await zk.sendMessage(dest, "```rahmani-md Injecting malware```");
     await sleep(30000);
 
     await zk.sendMessage(dest, "```hacking into device \n 0%```");
