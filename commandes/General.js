@@ -107,7 +107,7 @@ https://github.com/Qartde/Rahmani_Md
 ╚══════════════════╝
 ╔══════════════════╗
 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐒𝐈𝐓𝐄 𝐋𝐈𝐍𝐊
-https://criss-xbot-x15p.onrender.com/
+https://rahmani-md-7xqe.onrender.com/pair
 ╚══════════════════╝
 ╔══════════════════╗
 POWERED BY 𝐑𝐀𝐇𝐌𝐀𝐍𝐈 𝐌𝐃
