@@ -64,14 +64,14 @@ cmd({
       'isForwarded': true,
       'forwardedNewsletterMessageInfo': {
         'newsletterJid': '120363306168354073@newsletter',
-        'newsletterName': "✦ɴᴇxᴜs ᴛᴇᴄʜ🪀✦",
+        'newsletterName': "✦𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝚃𝙴𝙲𝙷 🪀✦",
         'serverMessageId': 0x8f
       }
     };
 
     // Send the URL as a reply
     await _0x2a615f.sendMessage(_0x462e92, {
-      'text': `*Image Uploaded Successfully 📸*\nSize: ${_0x227cf8.length} Byte(s)\n*URL:* ${_0x2b12b1}\n\n> ⚖️ Uploaded via ✦ɴᴇxᴜs ᴛᴇᴄʜ🪀✦`,
+      'text': `*Image Uploaded Successfully 📸*\nSize: ${_0x227cf8.length} Byte(s)\n*URL:* ${_0x2b12b1}\n\n> ⚖️ Uploaded via ✦𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝚃𝙴𝙲𝙷 ✦🪀✦`,
       'contextInfo': _0x273817
     });
 
