@@ -113,7 +113,7 @@ var tt=[]
  async  function execute(dest,zok,commandeOptions?)
   {
 
-    var link = "https://i.imgur.com/vXz75pe.jpeg"
+    var link = "https://files.catbox.moe/aktbgo.jpg"
     // var listCom =listeCommande()
     let msg= "  ╩═══ * Ƶ𝓞ｋØ𝓊 * ╩═══\n\n"
 
