@@ -22,7 +22,7 @@
          "AUTO_BIO":
     {
       "description":"Enter yes for your bot to auto bio",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
   "AUTO_REACT_STATUS":
