@@ -63,4 +63,4 @@ Stay Connected With The Latest Updates By
 DO SOMETHING TODAY FOR A BETTER TOMORROW  🌟
 
 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣 𝗟𝗜𝗡𝗞 
-//chat.whatsapp.com/D3dnvm4vsn9HafO6wkqnzF
+https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
