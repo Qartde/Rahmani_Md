@@ -18,9 +18,3 @@ Stay Connected With The Latest Updates By
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+RAHMANI MD;RELEASED+1.3.2025" alt="Typing SVG" /></a>
 
-
-
-DO SOMETHING TODAY FOR A BETTER TOMORROW  🌟
-
-𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣 𝗟𝗜𝗡𝗞 
-https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
