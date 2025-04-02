@@ -1,3 +1,6 @@
+https://files.catbox.moe/aktbgo.jpg
+
+
 ## bot is not available made by rahman xmd
   
   <a href="https://rahmani-md-7xqe.onrender.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
