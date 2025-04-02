@@ -4,9 +4,11 @@
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31">
+  <a href="https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T">
     <img alt=Support height="390" src="https://files.catbox.moe/aktbgo.jpg"> 
     </p>
+
+
 
 
 ## bot is not available made by rahman xmd
