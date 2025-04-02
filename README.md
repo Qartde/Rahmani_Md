@@ -9,6 +9,9 @@
     </p>
 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=WELCOME+TO+MY+BOT+RAHMANI_XMD+CREATED+BY+Rahmani;RELEASED+26.3.2025" alt="Typing SVG" /></a>
+
+
 
 
 ## bot is not available made by rahman xmd
