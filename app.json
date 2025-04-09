@@ -3,7 +3,7 @@
   "description":"Best whatsapp bot created by Rahmani Md",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/aktbgo.jpg",
-  "repository":"https://github.com/Qartde/Qart-MD",
+  "repository":"https://github.com/Qartde/Rahmani_Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -124,7 +124,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255693629079,255784766591"
+    "value": "255693629079"
   },
     "WARN_COUNT":
   {
